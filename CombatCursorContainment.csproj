@@ -1,0 +1,14 @@
+<Project Sdk="Dalamud.NET.Sdk/11.0.0">
+	<PropertyGroup>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Authors>Cytraen</Authors>
+		<VersionPrefix>1.0.5</VersionPrefix>
+		<RepositoryUrl>https://github.com/Cytraen/CombatCursorContainment/</RepositoryUrl>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
+	</PropertyGroup>
+
+	<ItemGroup Condition="'$(Configuration)' == 'Debug'">
+		<None Update="icon.png" CopyToOutputDirectory="PreserveNewest" TargetPath="images\%(Filename)%(Extension)" />
+	</ItemGroup>
+</Project>
