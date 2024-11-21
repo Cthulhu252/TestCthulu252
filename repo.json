@@ -1,0 +1,24 @@
+[
+	{
+		"Author": "Me",
+		"Name": "MyTest",
+		"InternalName": "MyTest",
+		"AssemblyVersion": "2.7.3.2",
+		"TestingAssemblyVersion": "2.7.3.2",
+		"Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
+		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/Cthulhu252/TestCthulu252",
+		"Tags": [
+			"parsing",
+			"plugin",
+			"ACT"
+		],
+		"DalamudApiLevel": 11,
+		"LoadPriority": 0,
+		"IconUrl": "https://github.com/Cthulhu252/TestCthulu252icon.png",
+		"Punchline": "A parsing plugin.",
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+
+	}
+]
