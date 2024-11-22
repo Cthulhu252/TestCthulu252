@@ -19,8 +19,8 @@
 		"Punchline": "A parsing plugin.",
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
-		"DownloadLinkInstall": "https://github.com/Cthulhu252/release.zip",
-		"DownloadLinkTesting": "https://github.com/Cthulhu252/release.zip",
-		"DownloadLinkUpdate": "https://github.com/Cthulhu252/release.zip"
+		"DownloadLinkInstall": "https://github.com/Cthulhu252/main/release.zip",
+		"DownloadLinkTesting": "https://github.com/Cthulhu252/main/release.zip",
+		"DownloadLinkUpdate": "https://github.com/Cthulhu252/main/release.zip"
 	}
 ]
